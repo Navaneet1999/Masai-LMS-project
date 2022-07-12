@@ -1,0 +1,10 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+}
+
+.nav_comp_img > img{
+    width: 100px;
+    height: 50px;
+}
